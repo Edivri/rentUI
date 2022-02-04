@@ -2,5 +2,5 @@
 
 ## Screenshot
 
-<img src="rentUI.png">
+<img src="assets/rentUI.png">
 
